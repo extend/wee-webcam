@@ -1,0 +1,15 @@
+This project is a work-in-progress to deliver a complete solution for
+webcam integration in the Web:Extend framework. It will attempt to
+provide both a general purpose binary build and a modifiable source
+for more custom solutions.
+
+The project uses haXe to generate the SWF file. The project is tested
+against the red5 server exclusively at this point.
+
+To compile the source the command "haxe compile.hxml" should do the trick.
+
+To test it you need to install red5 and enable the oflaDemo application.
+Detailed documentation will be available at a later time.
+
+The license is LGPL v2 or higher and the work copyrighted Dev:Extend.
+Website: http://dev-extend.eu

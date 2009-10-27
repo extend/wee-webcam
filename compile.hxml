@@ -1,0 +1,4 @@
+-swf-version 9
+-swf test.swf
+-main Test
+-swf-header 320:240:15:FF0000
